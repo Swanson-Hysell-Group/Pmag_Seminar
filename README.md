@@ -1,6 +1,8 @@
 # Pmag_Seminar
 Fall 2016 Group Meeting and Pmag Seminar
+
 [Main PmagPy repo](https://github.com/PmagPy/PmagPy)
+
 [PmagPy in Python 3](https://github.com/Caoimhinmg/PmagPy)
 
 | Meeting Date | Reading/Prep |
