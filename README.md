@@ -20,6 +20,6 @@ Fall 2016 Group Meeting and Pmag Seminar
 |11/04/16| |
 |11/11/16| |
 |11/18/16| |
-|11/25/16| Thanksgiving |
+|11/25/16| Thanksgiving(turkkkey) |
 |12/02/16| |
 |12/09/16| AGU Practice Presentations |
