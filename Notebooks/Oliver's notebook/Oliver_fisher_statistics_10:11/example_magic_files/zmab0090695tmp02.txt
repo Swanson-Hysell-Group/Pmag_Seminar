@@ -1,0 +1,194 @@
+tab delimited	er_locations
+er_location_name	er_location_alternatives	location_type	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	continent_ocean	region	er_citation_names
+1205	Nintuko Seamount	Drill Site	41.2	170.2	41.2	170.2	Pacific Ocean		This study
+801	Ontong-Java Plateu	Drill Site	19	156	19	156	Pacific Ocean	Ontong Java Plateau	This study
+>>>>>>>>>>
+tab delimited	er_sites
+er_site_name	er_location_name	site_definition	site_class	site_lithology	site_type	site_lat	site_lon	er_citation_names
+1	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+5b	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+6	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+8	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+10	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+14b	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+15	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+16	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+17	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+22	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+27	1205	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	41.2	170.2	This study
+B5	801	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	19	156	This study
+B6	801	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	19	156	This study
+C1	801	s	Igneous : Extrusive : Submarine	Basalt	Single Crystal	19	156	This study
+>>>>>>>>>>
+tab delimited	er_samples
+er_sample_name	er_location_name	er_site_name	sample_class	sample_lithology	sample_type	sample_lat	sample_lon	er_citation_names
+197-1205-06r2-60	1205	1	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-15r3-15	1205	5b	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-19r1-57	1205	6	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-20r2-42	1205	8	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-24r4-48	1205	10	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-29r1-13	1205	14b	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-29r4-87	1205	15	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-30r3-60	1205	16	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-33r3-91	1205	17	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-40r1-28	1205	22	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+197-1205-42r6-53	1205	27	Igneous	Basalt	Single Crystal	41.2	170.2	This study
+129-801B-41r1-96	801	B5	Igneous	Basalt	Single Crystal	19	156	This study
+129-801B-42r2-11	801	B6	Igneous	Basalt	Single Crystal	19	156	This study
+129-801C-1r2-121	801	C1	Igneous	Basalt	Single Crystal	19	156	This study
+>>>>>>>>>>
+tab delimited	er_specimens
+er_specimen_name	er_location_name	er_site_name	er_sample_name	specimen_class	specimen_lithology	specimen_type	specimen_description	magic_method_codes	er_citation_names
+197-1205-06r2-60b	1205	1	197-1205-06r2-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-06r2-60c	1205	1	197-1205-06r2-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-06r2-60d	1205	1	197-1205-06r2-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-06r2-60f	1205	1	197-1205-06r2-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-15r3-15a	1205	5b	197-1205-15r3-15	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-15r3-15b	1205	5b	197-1205-15r3-15	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-15r3-15d	1205	5b	197-1205-15r3-15	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-15r3-15e	1205	5b	197-1205-15r3-15	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-15r3-15f	1205	5b	197-1205-15r3-15	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-19r1-57a	1205	6	197-1205-19r1-57	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-19r1-57b	1205	6	197-1205-19r1-57	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-19r1-57d	1205	6	197-1205-19r1-57	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-19r1-57f	1205	6	197-1205-19r1-57	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-20r2-42a	1205	8	197-1205-20r2-42	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-20r2-42c	1205	8	197-1205-20r2-42	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-20r2-42d	1205	8	197-1205-20r2-42	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-24r4-48a	1205	10	197-1205-24r4-48	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-24r4-48b	1205	10	197-1205-24r4-48	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-24r4-48d	1205	10	197-1205-24r4-48	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r1-133b	1205	14b	197-1205-29r1-13	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r1-133f	1205	14b	197-1205-29r1-13	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r1-133g	1205	14b	197-1205-29r1-13	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r1-133h	1205	14b	197-1205-29r1-13	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r4-87b	1205	15	197-1205-29r4-87	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r4-87d	1205	15	197-1205-29r4-87	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-29r4-87e	1205	15	197-1205-29r4-87	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60c	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60e	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60f	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60g	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60h	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-60j	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-30r3-601	1205	16	197-1205-30r3-60	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-33r3-91d	1205	17	197-1205-33r3-91	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-33r3-91f	1205	17	197-1205-33r3-91	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-33r3-91g	1205	17	197-1205-33r3-91	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-33r3-91j	1205	17	197-1205-33r3-91	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-33r3-91k	1205	17	197-1205-33r3-91	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-40r1-28c	1205	22	197-1205-40r1-28	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-40r1-28e	1205	22	197-1205-40r1-28	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-40r1-28i	1205	22	197-1205-40r1-28	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-40r1-28j	1205	22	197-1205-40r1-28	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-42r6-53b	1205	27	197-1205-42r6-53	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-42r6-53d	1205	27	197-1205-42r6-53	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+197-1205-42r6-53f	1205	27	197-1205-42r6-53	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-41r1-96a	801	B5	129-801B-41r1-96	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-41r1-96c	801	B5	129-801B-41r1-96	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-41r1-96d	801	B5	129-801B-41r1-96	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11a	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11b	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11d	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11e	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11f	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801B-42r2-11g	801	B6	129-801B-42r2-11	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801C-1r2-121a	801	C1	129-801C-1r2-121	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801C-1r2-121d	801	C1	129-801C-1r2-121	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+129-801C-1r2-121g	801	C1	129-801C-1r2-121	Igneous : Extrusive : Submarine	Basalt	Single Crystal	plagioclase crystals.	SP-HAND : FS-C-DRILL-ODP	This study
+>>>>>>>>>>
+tab delimited	er_citations	MAGIC00433031
+er_citation_name	long_authors	year	doi	title	citation_type	journal	volume	pages
+This study	Tarduno, J.A. and Cottrell, R.D.	2005	10.1029JB003970	Dipole strength and variation of the time-averaged reversing and nonreversing geodynamo based on Thellier analyses of single plagioclase crystals,	Electronic Journal	Journal of Geophysical Research, Solid Earth	110	
+Cottrell & Tarduno 1999	Cottrell, R.D. and Tarduno, J.A.	1999		Geomagnetic paleointensity derived from single plagioclase crystals	Journal	Earth and Planetary Science Letters	169	1-5
+Tauxe et al. 2013	Tauxe, L., Gee, J.S., Staudigel, H. and Steiner, M.S.	2013		Paleointensity results from the mid Jurassic: Submarine basaltic glasses ofODP Site 801C	Journal	Geochemistry, Geophysics, Geosystems	Unknown	Unknown
+Thellier & Thellier 1959	Thellier, E. and Thellier, O.	1959		Sur l'intensite du champ magnetique terrestre dans le passe historique et geologique	Journal	Annales de Geophysique	15	285-378
+Thellier 1938	Thellier, E.	1938		Sur l'aimantationdes terres cuites et ses applications geophysique	Journal	Annales Institut Physique du Globe de Paris	16	157-302
+>>>>>>>>>>
+tab delimited	pmag_specimens
+er_location_name	er_site_name	er_sample_name	er_specimen_name	specimen_correction	specimen_int	specimen_int_n	specimen_q	specimen_f	specimen_b	specimen_b_sigma	specimen_g	specimen_rsc	magic_method_codes	er_citation_names
+1205	1	197-1205-06r2-60	197-1205-06r2-60b	u	0.0000369		4.02	0.769	-0.615	0.072	0.612	0.967	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	1	197-1205-06r2-60	197-1205-06r2-60c	u	0.0000419		2.517	0.452	-0.699	0.089	0.709	0.969	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	1	197-1205-06r2-60	197-1205-06r2-60d	u	0.0000564		7.557	0.516	-0.941	0.039	0.607	0.996	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	1	197-1205-06r2-60	197-1205-06r2-60f	u	0.0000487		4.237	0.466	-0.812	0.071	0.795	0.981	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	5b	197-1205-15r3-15	197-1205-15r3-15a	u	0.0000435		2.885	0.611	-0.726	0.117	0.761	0.919	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	5b	197-1205-15r3-15	197-1205-15r3-15b	u	0.00004		5.566	0.483	-0.666	0.046	0.796	0.981	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	5b	197-1205-15r3-15	197-1205-15r3-15d	u	0.0000425		6.441	0.65	-0.742	0.062	0.828	0.976	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	5b	197-1205-15r3-15	197-1205-15r3-15e	u	0.0000499		6.817	0.537	-0.813	0.052	0.812	0.984	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	5b	197-1205-15r3-15	197-1205-15r3-15f	u	0.0000405		5.371	0.583	-0.675	0.054	0.737	0.973	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	6	197-1205-19r1-57	197-1205-19r1-57a	u	0.0000323		5.721	0.684	-0.527	0.047	0.746	0.967	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	6	197-1205-19r1-57	197-1205-19r1-57b	u	0.000027		6.512	0.444	-0.451	0.025	0.813	0.983	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	6	197-1205-19r1-57	197-1205-19r1-57d	u	0.0000271		3.699	0.718	-0.452	0.068	0.775	0.958	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	6	197-1205-19r1-57	197-1205-19r1-57f	u	0.0000283		4.406	0.585	-0.472	0.046	0.734	0.955	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	8	197-1205-20r2-42	197-1205-20r2-42a	u	0.0000412		8.767	0.659	-0.686	0.033	0.64	0.993	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	8	197-1205-20r2-42	197-1205-20r2-42c	u	0.0000465		2.119	0.488	-0.775	0.128	0.717	0.949	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	8	197-1205-20r2-42	197-1205-20r2-42d	u	0.00004		2.065	0.462	-0.666	0.097	0.651	0.96	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	10	197-1205-24r4-48	197-1205-24r4-48a	u	0.0000315		4.991	0.65	-0.524	0.052	0.762	0.981	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	10	197-1205-24r4-48	197-1205-24r4-48b	u	0.0000279		4.547	0.433	-0.465	0.036	0.813	0.982	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	10	197-1205-24r4-48	197-1205-24r4-48d	u	0.0000311		7.968	0.524	-0.518	0.028	0.822	0.99	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	14b	197-1205-29r1-13	197-1205-29r1-133b	u	0.0000667		7.007	0.594	-1.112	0.074	0.785	0.989	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	14b	197-1205-29r1-13	197-1205-29r1-133f	u	0.000064		4.771	0.752	-1.067	0.131	0.779	0.958	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	14b	197-1205-29r1-13	197-1205-29r1-133g	u	0.0000642		2.5	0.431	-1.071	0.13	0.704	0.958	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	14b	197-1205-29r1-13	197-1205-29r1-133h	u	0.0000716		4.609	0.486	-1.194	0.086	0.683	0.977	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	15	197-1205-29r4-87	197-1205-29r4-87b	u	0.0000607		1.108	0.477	-1.012	0.234	0.537	0.888	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	15	197-1205-29r4-87	197-1205-29r4-87d	u	0.000068		2.132	0.375	-1.125	0.129	0.652	0.963	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	15	197-1205-29r4-87	197-1205-29r4-87e	u	0.0000605		2.366	0.465	-1.008	0.146	0.737	0.951	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-601	u	0.0000482		2.321	0.4	-0.803	0.093	0.672	0.981	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60c	u	0.0000432		13.191	0.574	-0.72	0.024	0.766	0.997	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60e	u	0.000068		2.22	0.505	-1.133	0.158	0.613	0.981	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60f	u	0.0000539		5.026	0.458	-0.898	0.059	0.721	0.989	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60g	u	0.0000427		0.916	0.355	-0.712	0.127	0.46	0.956	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60h	u	0.0000576		8.803	0.632	-0.96	0.051	0.74	0.994	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	16	197-1205-30r3-60	197-1205-30r3-60j	u	0.0000502		4.595	0.464	-0.837	0.065	0.769	0.985	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	17	197-1205-33r3-91	197-1205-33r3-91d	u	0.0000304		2.073	0.568	-0.507	0.085	0.612	0.915	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	17	197-1205-33r3-91	197-1205-33r3-91f	u	0.0000389		3.151	0.442	-0.648	0.053	0.583	0.983	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	17	197-1205-33r3-91	197-1205-33r3-91g	u	0.0000405		4.087	0.46	-0.675	0.055	0.724	0.987	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	17	197-1205-33r3-91	197-1205-33r3-91j	u	0.0000415		2.726	0.606	-0.692	0.104	0.676	0.948	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	17	197-1205-33r3-91	197-1205-33r3-91k	u	0.0000359		1.766	0.355	-0.599	0.079	0.656	0.983	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	22	197-1205-40r1-28	197-1205-40r1-28c	u	0.0000282		3.804	0.431	-0.47	0.041	0.77	0.985	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	22	197-1205-40r1-28	197-1205-40r1-28e	u	0.0000255		14.641	0.689	-0.425	0.016	0.8	0.994	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	22	197-1205-40r1-28	197-1205-40r1-28i	u	0.0000246		2.118	0.521	-0.41	0.071	0.704	0.945	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	22	197-1205-40r1-28	197-1205-40r1-28j	u	0.0000248		2.238	0.542	-0.413	0.074	0.74	0.916	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	27	197-1205-42r6-53	197-1205-42r6-53b	u	0.0000323		4.342	0.451	-0.538	0.038	0.68	0.988	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	27	197-1205-42r6-53	197-1205-42r6-53d	u	0.000035		6.496	0.515	-0.583	0.033	0.714	0.991	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205	27	197-1205-42r6-53	197-1205-42r6-53f	u	0.000029		4.819	0.539	-0.484	0.038	0.702	0.979	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B5	129-801B-41r1-96	129-801B-41r1-96a	u	0.0000151	6	2.639	0.381	-0.251	0.031	0.423	0.971	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B5	129-801B-41r1-96	129-801B-41r1-96c	u	0.0000198	5	2.827	0.172	-0.33	0.107	0.495	0.913	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B5	129-801B-41r1-96	129-801B-41r1-96d	u	0.0000225	5	9.633	0.232	-0.375	0.067	0.663	0.942	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11a	u	0.0000114	5	0.424	0.251	-0.19	0.1	0.622	0.801	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11b	u	0.000028	4	1.443	0.221	-0.466	0.128	0.44	0.932	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11d	u	0.0000239	6	23.607	0.295	-0.399	0.047	0.443	0.966	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11e	u	0.000026	8	32.953	0.413	-0.433	0.042	0.7	0.97	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11f	u	0.0000228	7	29.018	0.385	-0.38	0.065	0.574	0.934	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	B6	129-801B-42r2-11	129-801B-42r2-11g	u	0.0000173	5	17.488	0.11	-0.577	0.046	0.469	0.991	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	C1	129-801C-1r2-121	129-801C-1r2-121a	u	0.0000185	4	2.623	0.311	-0.308	0.077	0.587	0.943	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	C1	129-801C-1r2-121	129-801C-1r2-121d	u	0.0000206	6	8.664	0.507	-0.344	0.064	0.698	0.938	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+801	C1	129-801C-1r2-121	129-801C-1r2-121g	u	0.0000239	5	0.419	0.137	-0.796	0.197	0.486	0.924	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+>>>>>>>>>>
+tab delimited	pmag_results
+pmag_result_name	er_location_names	er_site_names	data_type	average_lat	average_lon	average_age	average_age_sigma	average_age_unit	average_int	average_int_sigma	average_int_sigma_perc	average_int_nn	model_lat	vadm	vadm_sigma	vadm_n	result_description	magic_software_packages	external_database_names	external_database_ids	magic_method_codes	er_citation_names
+1205-1	1205	1	i	41.2	170.2	55.59	0.25	Ma	0.0000466	0.0000093	20	4	26	9.598E+22	1.912E+22	4	VADM recalculated by MagIC team.		PINT	6365	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-10	1205	10	i	41.2	170.2	55.59	0.25	Ma	0.0000303	0.0000008	2.6	3	26	6.24E+22	1.644E+21	3	VADM recalculated by MagIC team.		PINT	6369	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-14b	1205	14b	i	41.2	170.2	55.59	0.25	Ma	0.0000686	0.0000033	4.8	4	26	1.413E+23	6.783E+21	4	VADM recalculated by MagIC team.		PINT	6370	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-15b	1205	15	i	41.2	170.2	55.59	0.25	Ma	0.0000608	0.0000018	3	3	26	1.252E+23	3.7E+21	3	VADM recalculated by MagIC team.		PINT	6371	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-16	1205	16	i	41.2	170.2	55.59	0.25	Ma	0.0000527	0.0000092	17.5	6	26	1.085E+23	1.891E+22	6	VADM recalculated by MagIC team.		PINT	6372	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-17	1205	17	i	41.2	170.2	55.59	0.25	Ma	0.0000391	0.0000038	9.7	5	26	8.053E+22	7.811E+21	5	VADM recalculated by MagIC team.		PINT	6373	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-22	1205	22	i	41.2	170.2	55.59	0.25	Ma	0.0000265	0.0000016	6	4	26	5.458E+22	3.289E+21	4	VADM recalculated by MagIC team.		PINT	6374	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-27	1205	27	i	41.2	170.2	55.59	0.25	Ma	0.000032	0.0000031	9.7	3	26	6.591E+22	6.372E+21	3	VADM recalculated by MagIC team.		PINT	6375	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-5b	1205	5b	i	41.2	170.2	55.59	0.25	Ma	0.0000422	0.0000046	10.9	5	26	8.691E+22	9.455E+21	5	VADM recalculated by MagIC team.		PINT	6366	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-6	1205	6	i	41.2	170.2	55.59	0.25	Ma	0.0000287	0.0000025	8.7	4	26	5.911E+22	5.139E+21	4	VADM recalculated by MagIC team.		PINT	6367	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+1205-8	1205	8	i	41.2	170.2	55.59	0.25	Ma	0.0000428	0.0000028	6.5	3	26	8.815E+22	5.755E+21	3	VADM recalculated by MagIC team.		PINT	6368	LP-PI-TRM-ZI : LP-PI-ALT-PTRM : LP-PI-SXTAL	This study
+B5	801	B5	i	-20	156	160.2	0.7	Ma	0.0000193	0.0000035		3	-14	4.603E+22	8.4E+21	3	dates are from top unit of Koppers et al. 2003. ; VADMs calculated by Tauxe et al. 2013.	pmagpy-2.177	PINT	8804	GM-ARAR : LP-PI-ALT-PTRM : LP-PI-TRM-ZI	This study : Tauxe et al. 2013
+B6	801	B6	i	-20	156	160.2	0.7	Ma	0.0000213	0.0000036		6	-14	5.08E+22	8.59E+21	6	dates are from top unit of Koppers et al. 2003. ; VADMs calculated by Tauxe et al. 2013.	pmagpy-2.177	PINT	8805	GM-ARAR : LP-PI-ALT-PTRM : LP-PI-TRM-ZI	This study : Tauxe et al. 2013
+C1	801	C1	i	-20	156	160.2	0.7	Ma	0.0000224	0.0000017		3	-14	5.343E+22	4.055E+21	3	dates are from top unit of Koppers et al. 2003. ; VADMs calculated by Tauxe et al. 2013.	pmagpy-2.177	PINT	8806	GM-ARAR : LP-PI-ALT-PTRM : LP-PI-TRM-ZI	This study : Tauxe et al. 2013
+>>>>>>>>>>
+tab delimited	magic_methods
+magic_method_code	method_type	method_definition	method_description	er_citation_names
+FS-C-DRILL-ODP	Field Sampling	Coring: ODP drilling		
+GM-ARAR	Geochronology Method	40Ar/39Ar age determination		
+GM-NO	Geochronology Method	Unknown geochronology method		
+LP-PI-ALT-PTRM	Lab Protocol	Paleointensity experiment: Alteration check using a pTRM check	This is a check for reproducibility of pTRM acquisition at a specific temperature. During a Thellier-type paleointensity experiment, the specimen is reheated to a lower temperature and cooled in the laboratory field, thus reapplying a pTRM.	Thellier & Thellier 1959
+LP-PI-SXTAL	Lab Protocol	Paleointensity experiment: Using a single crystal approach		Cottrell & Tarduno 1999
+LP-PI-TRM	Lab Protocol	Paleointensity experiment: Using a laboratory TRM	Any paleointensity experiment that uses a TRM produced in a lab controlled field. Includes all variants of the Thellier method, including the Shaw method. More details on alteration and reciprocity checks can be added using the special LP-PI-ALT and LP-PI-BT method codes.	Thellier 1938
+LP-PI-TRM-ZI	Lab Protocol	Paleointensity experiment: Using a laboratory TRM with a zero-field step followed by an in-field step	Heating the specimen to the desired temperature step and then cooling in zero ambient magnetic field. Then heating to the same or lower temperature and then cooling in a known magnetic field to induce pTRM.	
+SP-HAND	Sample Preparation	Hand picking of grain sample		
