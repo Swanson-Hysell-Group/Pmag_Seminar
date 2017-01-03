@@ -1,5 +1,16 @@
 # Pmag_Seminar
-Fall 2016 Group Meeting and Pmag Seminar
+
+Possible papers for Spring 2017:
+
+Charles Aubourg, Jean-Pierre Pozzi, and Myriam Kars
+Burial, claystones remagnetization and some consequences for magnetostratigraphy
+Geological Society, London, Special Publications, 371:181-188, first published on June 27, 2012, doi:10.1144/SP371.4
+Abstract Full text Full text (PDF)
+
+
+
+
+## Fall 2016 Group Meeting and Pmag Seminar
 
 [Main PmagPy repo](https://github.com/PmagPy/PmagPy)
 
