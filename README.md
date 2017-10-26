@@ -19,7 +19,6 @@ Fridays from 9:30 to 11 am in McCone 345
 |11/24/17| Thanksgiving; No Meeting |
 |12/01/17| The Iron Biogeochemical Cycle (Chapters 8 and 9; Nick presents; group discussion) |
 |12/08/17| Roberts, A.P., 2015. Magnetic mineral diagenesis. Earth-Sci. Rev. 151, 1–47. https://doi.org/10.1016/j.earscirev.2015.09.010  (Luke presents; group discussion)|
-|12/15/17| Nonesuch Formation context and results (Nick presents) |
-|sometime in Jan| Slotznick, S. P., Eiler, J. M., and Fischer, W. W., The effects of metamorphism on iron mineralogy and the iron speciation redox proxy
-|sometime in Jan| Iron speciation standard results (Sarah presents; group discussion) |
+|12/15/17| Nonesuch Formation and Iron speciation standard results (Sarah presents) |
+|sometime in Jan| Slotznick, S. P., Eiler, J. M., and Fischer, W. W., The effects of metamorphism on iron mineralogy and the iron speciation redox proxy |
 
