@@ -12,6 +12,7 @@ Fridays from 9:30 to 11 am in McCone 345
 |02/16/18| Driscoll and Olson (2011) Superchron cycles driven by variable core heat flow | 
 |02/23/18| Biggin et al. (2012) Possible links between long-term geomagnetic variations and whole-mantle convection processes | 
 |03/02/18| Olson and Amit (2015) Mantle superplumes induce geomagnetic superchrons | 
+|03/09/18| | 
 
 ## Fall 2017 Group Meeting and Pmag/Rockmag Seminar
 
