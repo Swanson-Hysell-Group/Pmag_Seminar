@@ -4,15 +4,22 @@ Fridays from 9:30 to 11 am in McCone 345
 
 | Meeting Date | Reading/Prep |
 |--------------|--------------|
-|01/12/18| Organizational meeting|
-|01/19/18| Landeau et al. (2017) The signature of inner-core nucleation on the geodynamo|
-|01/26/18| Glatzmaeier et al. (1999) The role of Earth's mantle in controlling the frequency of geomagnetic reversals |
+|01/19/18| Organizational meeting|
+|01/26/18| Landeau et al. (2017) The signature of inner-core nucleation on the geodynamo|
 |02/02/18| Nick is gone |
-|02/09/18| Coe and Glatzmaier (2006) Symmetry and stability of the geomagnetic field | 
-|02/16/18| Driscoll and Olson (2011) Superchron cycles driven by variable core heat flow | 
-|02/23/18| Biggin et al. (2012) Possible links between long-term geomagnetic variations and whole-mantle convection processes | 
-|03/02/18| Olson and Amit (2015) Mantle superplumes induce geomagnetic superchrons | 
-|03/09/18| | 
+|02/09/18| Glatzmaeier et al. (1999) The role of Earth's mantle in controlling the frequency of geomagnetic reversals |
+|02/16/18| Nick is gone | 
+|02/23/18| Coe and Glatzmaier (2006) Symmetry and stability of the geomagnetic field | 
+|03/02/18| Driscoll and Olson (2011) Superchron cycles driven by variable core heat flow | 
+|03/09/18| Biggin et al. (2012) Possible links between long-term geomagnetic variations and whole-mantle convection processes | 
+|03/16/18| Olson and Amit (2015) Mantle superplumes induce geomagnetic superchrons| 
+|03/23/18| Nick is gone on EPS 115 Death Valley field trip | 
+|03/30/18| Nick is gone on EPS 115 Death Valley field trip | 
+|04/06/18| |
+|04/13/18| |
+|04/20/18| |
+|04/27/18| |
+|05/05/18| |
 
 ## Fall 2017 Group Meeting and Pmag/Rockmag Seminar
 
