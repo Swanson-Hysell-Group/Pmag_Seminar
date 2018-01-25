@@ -10,7 +10,7 @@ Fridays from 9:30 to 11 am in McCone 404
 |02/09/18| Glatzmaeier et al. (1999) The role of Earth's mantle in controlling the frequency of geomagnetic reversals; Maggie leads discussion|
 |02/16/18| Nick is gone | 
 |02/23/18| Coe and Glatzmaier (2006) Symmetry and stability of the geomagnetic field; Nick leads discussion | 
-|03/02/18| Driscoll and Olson (2011) Superchron cycles driven by variable core heat flow | 
+|03/02/18| Driscoll and Olson (2011) Superchron cycles driven by variable core heat flow; Yuem leads discussion | 
 |03/09/18| Biggin et al. (2012) Possible links between long-term geomagnetic variations and whole-mantle convection processes | 
 |03/16/18| Olson and Amit (2015) Mantle superplumes induce geomagnetic superchrons| 
 |03/23/18| Nick is gone on EPS 115 Death Valley field trip | 
