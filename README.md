@@ -1,6 +1,6 @@
 ## Spring 2018 Group Meeting and Pmag/Geomag Seminar
 
-Fridays from 9:30 to 11 am in McCone 345
+Fridays from 9:30 to 11 am in McCone 404
 
 | Meeting Date | Reading/Prep |
 |--------------|--------------|
