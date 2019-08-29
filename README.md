@@ -1,3 +1,26 @@
+## Fall 2019 Group Meeting and Pmag Seminar
+
+Fridays from 9:30 to 11 am in McCone 404
+
+| Meeting Date | Reading/Prep |
+|--------------|--------------|
+|09/04/19| Proterozoic Paleogeography |
+|09/11/19| Magnetic imaging |
+|09/18/19| Proterozoic Paleogeography |
+|09/25/19| Magnetic imaging|
+|10/02/19| Proterozoic Paleogeography | 
+|10/09/19| Magnetic imaging | 
+|10/16/19| Proterozoic Paleogeography| 
+|10/23/19| Magnetic imaging |
+|10/30/19| Proterozoic Paleogeography| 
+|03/23/19| Magnetic imaging | 
+|03/30/19| Nick is gone on EPS 115 Death Valley field trip | 
+|04/06/19| |
+|04/13/19| |
+|04/20/19| |
+|04/27/19| |
+|05/05/19| |
+
 ## Spring 2018 Group Meeting and Pmag/Geomag Seminar
 
 Fridays from 9:30 to 11 am in McCone 404
