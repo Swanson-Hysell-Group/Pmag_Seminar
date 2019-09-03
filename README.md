@@ -5,7 +5,7 @@ Wednesdays from 1 to 2:30 pm in McCone 404
 | Meeting Date | Reading/Prep |
 |--------------|--------------|
 |09/04/19| Organizational meeting |
-|09/11/19| Proterozoic Paleogeography: *https://link.springer.com/chapter/10.1007/978-3-319-67774-3_4 with Blake presenting and leading discussion* |
+|09/11/19| Proterozoic Paleogeography: perhaps *https://link.springer.com/chapter/10.1007/978-3-319-67774-3_4 with Blake presenting and leading discussion* |
 |09/18/19| Magnetic imaging (with Sonia Tikoo at Stanford) |
 |09/25/19| Proterozoic Paleogeography |
 |10/02/19| Magnetic imaging (with Sonia Tikoo in Berkeley) | 
