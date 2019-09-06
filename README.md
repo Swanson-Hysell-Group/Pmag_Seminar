@@ -1,11 +1,11 @@
 ## Fall 2019 Group Meeting and Pmag Seminar
 
-Wednesdays from 1 to 2:30 pm in McCone 404
+Wednesdays from 12:10 to 1:30 pm in McCone 345
 
 | Meeting Date | Reading/Prep |
 |--------------|--------------|
 |09/04/19| Organizational meeting |
-|09/11/19| Proterozoic Paleogeography: *Practice GSA talk for Blake and Rapalini et al. 2018 https://link.springer.com/chapter/10.1007/978-3-319-67774-3_4 discussion* |
+|09/11/19| Proterozoic Paleogeography: *Practice GSA talk for Blake and discussion of Rapalini et al. 2018 https://link.springer.com/chapter/10.1007/978-3-319-67774-3_4 discussion* |
 |09/18/19| Magnetic imaging (with Sonia Tikoo at Stanford) *QDM build summary and discussion of Glenn et al. 2017 https://doi.org/10.1002/2017GC006946* |
 |09/25/19| Proterozoic Paleogeography (Blake gone): *Whitmeyer and Karlstrom (2007) https://doi.org/10.1130/GES00055.1 with Nick presenting and leading discussion* |
 |10/02/19| Francis Nimmo talk in CIPS seminar 1 to 2 pm; Magnetic imaging (with Sonia Tikoo in Berkeley) *Lima and Weiss 2016 https://doi.org/10.1002/2016GC006487* | 
