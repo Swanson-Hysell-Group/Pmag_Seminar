@@ -19,4 +19,4 @@ Wednesdays from 12:10 to 1:30 pm in McCone 345
 |11/27/19| No meeting -- Happy Thanksgiving |
 |12/04/19| Magnetic imaging (with Sonia Tikoo in Berkeley): *Satcher AGU practice talk on insitu pressure demagnetization; Swanson-Hysell presentation on*  |
 |12/11/19| No meeting -- AGU week |
-|12/18/19| Proterozoic Paleogeography |
+|12/18/19| Proterozoic Paleogeography (Sarah gone)|
