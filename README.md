@@ -8,7 +8,7 @@ Wednesdays from 12:10 to 1:30 pm in McCone 345
 |09/11/19| Proterozoic Paleogeography: *Practice GSA talk for Blake and discussion of Rapalini et al. 2018 https://link.springer.com/chapter/10.1007/978-3-319-67774-3_4* |
 |09/18/19| Magnetic imaging (with Sonia Tikoo at Stanford) *QDM build summary and discussion of Glenn et al. 2017 https://doi.org/10.1002/2017GC006946* |
 |09/25/19| Proterozoic Paleogeography (Blake gone): *Whitmeyer and Karlstrom (2007) https://doi.org/10.1130/GES00055.1 with Nick presenting and leading discussion* |
-|10/02/19| Francis Nimmo talk in CIPS seminar 1 to 2 pm; Magnetic imaging (with Sonia Tikoo in Berkeley) *Lima and Weiss 2016 https://doi.org/10.1002/2016GC006487* | 
+|10/02/19| Magnetic imaging (with Sonia Tikoo in Berkeley) short discussion of *Lima and Weiss 2016 https://doi.org/10.1002/2016GC006487* followed by Francis Nimmo talk in CIPS seminar 1 to 2 pm and perhaps additional paper discussion afterwards| 
 |10/09/19| Proterozoic Paleogeography (Sarah gone) *Cawood et al. 2017 http://dx.doi.org/10.1016/j.earscirev.2017.06.001*| 
 |10/16/19| Magnetic imaging (at Berkeley, Sonia videoconferences in from Rutgers?)| 
 |10/23/19| Proterozoic Paleogeography |
