@@ -11,9 +11,9 @@ Wednesdays from 12:10 to 1:30 pm in McCone 345
 |10/02/19| Magnetic imaging (with Sonia Tikoo in Berkeley) short discussion of *Lima and Weiss 2016 https://doi.org/10.1002/2016GC006487* followed by Francis Nimmo talk in CIPS seminar 1 to 2 pm and perhaps additional paper discussion afterwards| 
 |10/09/19| **Canceled due to Red Flag fire conditions** | 
 |10/16/19| Magnetic imaging (at Berkeley, Sonia videoconferences in from Rutgers) *Fu et al. 2017 http://dx.doi.org/10.1016/j.epsl.2016.09.038*| 
-|10/23/19| Proterozoic Paleogeography *Cawood et al. 2017 http://dx.doi.org/10.1016/j.earscirev.2017.06.001* Yuem leads discussion |
+|10/23/19| Proterozoic Paleogeography |
 |10/30/19| Magnetic imaging (with Sonia Tikoo at Stanford) *Le Sage et al. 2013 https://www.nature.com/articles/nature12072*| 
-|11/06/19| Proterozoic Paleogeography (Sarah gone)| 
+|11/06/19| Proterozoic Paleogeography *Cawood et al. 2017 http://dx.doi.org/10.1016/j.earscirev.2017.06.001* Yuem leads discussion (Sarah gone)| 
 |11/13/19| Dawn Sumner talk in CIPS seminar 1 to 2 pm; Magnetic imaging (with Sonia Tikoo in Berkeley) | 
 |11/20/19| Proterozoic Paleogeography|
 |11/27/19| No meeting -- Happy Thanksgiving |
