@@ -14,7 +14,7 @@ Wednesdays from 12:10 to 1:30 pm in McCone 345
 |10/23/19| Proterozoic Paleogeography *Direct Mesoproterozoic connection of the Congo and Kalahari cratons in proto-Africa: Strange attractors across supercontinental cycles http://dx.doi.org/10.1130/G45294.1* |
 |10/30/19| Magnetic imaging (with Sonia Tikoo at Stanford) *Le Sage et al. 2013 https://www.nature.com/articles/nature12072*| 
 |11/06/19| Proterozoic Paleogeography *Cawood et al. 2017 http://dx.doi.org/10.1016/j.earscirev.2017.06.001* Yuem leads discussion (Sarah gone) perhaps discuss this one too: https://doi.org/10.1016/j.precamres.2018.07.003| 
-|11/13/19| Dawn Sumner talk in CIPS seminar 1 to 2 pm; Magnetic imaging (with Sonia Tikoo in Berkeley) | 
+|11/13/19| Shock magnetization *Louzada et al. 2011 Impact demagnetization of the Martian crust: Current knowledge and future directions* https://doi.org/10.1016/j.epsl.2011.03.013 (with Sonia Tikoo in Berkeley); Dawn Sumner talk in CIPS seminar 1 to 2 pm | 
 |11/20/19| Proterozoic Paleogeography|
 |11/27/19| No meeting -- Happy Thanksgiving |
 |12/04/19| Magnetic imaging + Paleogeography and climate (with Sonia Tikoo in Berkeley): *Satcher AGU practice talk on insitu pressure demagnetization*; *Yuem AGU practice talk on Indonesia/New Guinea paleogeography and GEOCLIM modeling of Neogene pCO_2** |
