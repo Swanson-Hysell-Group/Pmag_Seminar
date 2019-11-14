@@ -17,6 +17,6 @@ Wednesdays from 12:10 to 1:30 pm in McCone 345
 |11/13/19| Shock magnetization *Louzada et al. 2011 Impact demagnetization of the Martian crust: Current knowledge and future directions* https://doi.org/10.1016/j.epsl.2011.03.013 (with Sonia Tikoo in Berkeley); Dawn Sumner talk in CIPS seminar 1 to 2 pm | 
 |11/20/19| Proterozoic Paleogeography|
 |11/27/19| No meeting -- Happy Thanksgiving |
-|12/04/19| Magnetic imaging + Paleogeography and climate (with Sonia Tikoo in Berkeley): *Satcher AGU practice talk on insitu pressure demagnetization*; *Yuem AGU practice talk on Indonesia/New Guinea paleogeography and GEOCLIM modeling of Neogene pCO_2** |
+|12/04/19| AGU Practice Talks (Shihong Zhang visiting): *Satcher AGU practice talk on insitu pressure demagnetization*; *Yuem AGU practice talk on Indonesia/New Guinea paleogeography and Neogene pCO_2*; *Pierre AGU practice talk on DynSoil* |
 |12/11/19| No meeting -- AGU week |
 |12/18/19| Proterozoic Paleogeography (Sarah gone)|
